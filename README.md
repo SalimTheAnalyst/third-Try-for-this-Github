@@ -1,2 +1,1 @@
-# third-Try-for-this-Github
-This is my #rd Try to understanding Github
+THIS REPOSITORY IS TO ENSURE FULL UNDERSTANDING OF GIT HUB
